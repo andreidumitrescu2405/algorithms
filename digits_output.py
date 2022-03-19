@@ -34,7 +34,7 @@ except:
 else:
     print("Completed the program successfully.")
 finally:
-    print("Foaie verde de mohor,\nIa mana de pe mine ca te omor.")
+    print("Program finished.")
         
 
         
